@@ -14,7 +14,7 @@ For this project, I hope to use my experience with CAD and mechanical design to 
 ###Sophie
 
 ###TJ
-I am a member of the Class of 2018, planning to major in Electrical and Computer Engineering. In this project, I am working on the electrical and website development of the project. I want to expand on the coding I know by especially working with html and jeckyll in this project, as well as hone my knowledge about electrical systems.
+I am a member of the Class of 2018, planning to major in Electrical and Computer Engineering. In this project, I am working on the electrical and website development of the project. I want to expand on the coding I know by especially working with html and Jekyll in this project, as well as hone my knowledge about electrical systems.
 
 [taejin.kim@students.olin.edu](mailto:taejin.kim@students.olin.edu)
 
