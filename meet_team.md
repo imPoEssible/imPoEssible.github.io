@@ -16,8 +16,6 @@ For this project, I hope to use my experience with CAD and mechanical design to 
 ###TJ
 I am a member of the Class of 2018, planning to major in Electrical and Computer Engineering. In this project, I am working on the electrical and website development of the project. I want to expand on the coding I know by especially working with html and Jekyll in this project, as well as hone my knowledge about electrical systems.
 
-[taejin.kim@students.olin.edu](mailto:taejin.kim@students.olin.edu)
-
 ###William 
 I’m majoring in Electrical and Computer Engineering, so for this project, I want to gain experience in the EE side of things. I don’t have a firm definition for what that means, but I will be satisfied as long as I don’t become a person whose only job is to add wires to things. I also want to integrate with mechanical and will definitely work on some software if needed.
 
